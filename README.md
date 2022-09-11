@@ -1,6 +1,5 @@
-# DigitalClock - js - with tutorial
+# DigitalClock - js
 
 This project is part of my #100DAYSOFCODE challenge
 I'm going to create 1 project per day in these 100 days
-In todays project, I followed along a tutorial
-Tomorrow I'm going to create the project again, but this time, I'll write it without follwoing along a tutorial.
+The projects will be in two parts, one where I follow along the tutorial and one where I code it on my own
